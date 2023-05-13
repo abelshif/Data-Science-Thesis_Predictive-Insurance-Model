@@ -1,2 +1,2 @@
-# Data-Science__Thesis-Project
-## Regression Model Analysis: Predictive Model
+# Thesis Project
+## A Simulation Study for Choosing Predictive Insurance Model
