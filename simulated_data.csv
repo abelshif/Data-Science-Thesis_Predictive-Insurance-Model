@@ -63,7 +63,7 @@ consult_id,consult_cost,patient_anatomy,patient_consult_status,patient_community
 62,5300,shoulder,new consultation,urban,Married,No,Yes,3,2,28,Male,8
 63,9300,upper chest area,new consultation,suburban,Divorced,No,No,4,2,40,Female,16
 64,1300,chest area,new consultation,rural,Married,Yes,Yes,2,4,33,Female,2
-65,3300,chest area,under appointment,rural,Married,No,Yes,2,4,15,Male,5
+65,3300,chest area,under appointment,rural,Married,No,Yes,2,4,16,Male,5
 66,7200,back,new consultation,rural,Divorced,No,No,1,1,12,Male,12
 67,4100,back,appointed session,rural,Married,No,No,1,1,35,Male,6
 68,4700,head,new consultation,rural,Divorced,No,No,4,3,23,Female,7
@@ -89,7 +89,7 @@ consult_id,consult_cost,patient_anatomy,patient_consult_status,patient_community
 88,4200,shoulder,admitted,urban,Divorced,Yes,No,4,2,37,Male,6
 89,9600,chest area,appointed session,rural,Single,No,No,1,0,23,Female,17
 90,1900,legs,admitted,rural,Married,No,No,3,4,22,Male,3
-91,6600,head,new consultation,suburban,Married,Yes,No,2,3,14,Male,10
+91,6600,head,new consultation,suburban,Married,Yes,No,2,3,15,Male,10
 92,7700,stomach,appointed session,suburban,Divorced,No,Yes,2,2,21,Male,13
 93,4500,stomach,appointed session,urban,Divorced,No,No,3,2,32,Female,8
 94,8000,back,under appointment,urban,Married,Yes,Yes,3,2,20,Male,14
@@ -123,7 +123,7 @@ consult_id,consult_cost,patient_anatomy,patient_consult_status,patient_community
 122,8400,chest area,new consultation,rural,Divorced,No,No,4,4,14,Male,15
 123,5400,legs,new consultation,rural,Divorced,No,No,2,3,31,Female,8
 124,1200,legs,new consultation,suburban,Married,Yes,No,2,4,10,Male,1
-125,8700,stomach,new consultation,rural,Married,No,Yes,2,4,15,Male,15
+125,8700,stomach,new consultation,rural,Married,No,Yes,2,4,16,Male,15
 126,6600,back,new consultation,rural,Married,Yes,Yes,2,4,33,Female,11
 127,2000,back,appointed session,rural,Married,Yes,No,2,1,25,Female,4
 128,9900,upper chest area,new consultation,urban,Single,Yes,No,0,0,15,Female,17
@@ -217,7 +217,7 @@ consult_id,consult_cost,patient_anatomy,patient_consult_status,patient_community
 216,5300,stomach,new consultation,rural,Married,No,Yes,2,4,31,Male,8
 217,7800,head,admitted,urban,Married,No,No,2,4,15,Male,13
 218,5000,stomach,appointed session,rural,Divorced,No,Yes,4,3,31,Female,7
-219,8700,stomach,appointed session,rural,Married,No,Yes,2,4,15,Male,15
+219,8700,stomach,appointed session,rural,Married,No,Yes,2,4,16,Male,15
 220,3500,shoulder,new consultation,suburban,Married,Yes,No,1,1,33,Female,5
 221,1700,shoulder,new consultation,suburban,Divorced,Yes,Yes,1,3,22,Male,3
 222,1300,back,appointed session,rural,Divorced,Yes,No,2,4,32,Female,3
@@ -397,7 +397,7 @@ consult_id,consult_cost,patient_anatomy,patient_consult_status,patient_community
 396,3300,back,under appointment,rural,Married,Yes,Yes,4,2,28,Female,5
 397,5400,chest area,new consultation,rural,Divorced,No,No,1,3,29,Male,8
 398,4800,stomach,new consultation,rural,Single,Yes,Yes,1,0,20,Female,7
-399,1300,head,under appointment,rural,Married,No,Yes,2,4,15,Male,2
+399,1300,head,under appointment,rural,Married,No,Yes,2,4,16,Male,2
 400,1200,legs,new consultation,suburban,Divorced,Yes,No,4,3,29,Female,1
 401,8200,chest area,under appointment,rural,Married,Yes,Yes,2,4,33,Female,14
 402,4400,head,admitted,suburban,Single,No,Yes,1,0,13,Female,7
@@ -410,7 +410,7 @@ consult_id,consult_cost,patient_anatomy,patient_consult_status,patient_community
 409,7400,head,new consultation,urban,Single,Yes,No,0,1,36,Female,12
 410,1500,legs,appointed session,suburban,Divorced,No,No,3,2,30,Female,2
 411,4500,back,new consultation,rural,Divorced,No,Yes,2,4,12,Female,7
-412,2900,stomach,appointed session,suburban,Married,Yes,No,2,3,14,Male,4
+412,2900,stomach,appointed session,suburban,Married,Yes,No,2,3,15,Male,4
 413,1800,chest area,under appointment,urban,Divorced,Yes,No,4,1,18,Male,3
 414,9300,stomach,new consultation,suburban,Married,Yes,Yes,3,4,12,Male,16
 415,8300,stomach,new consultation,urban,Married,No,No,1,2,24,Female,14
@@ -492,7 +492,7 @@ consult_id,consult_cost,patient_anatomy,patient_consult_status,patient_community
 491,4200,chest area,under appointment,suburban,Married,No,No,3,2,29,Male,6
 492,7600,back,new consultation,suburban,Single,No,Yes,1,0,13,Female,13
 493,7000,back,new consultation,suburban,Married,Yes,Yes,4,2,11,Male,11
-494,9200,stomach,admitted,suburban,Married,Yes,No,2,3,14,Male,16
+494,9200,stomach,admitted,suburban,Married,Yes,No,2,3,15,Male,16
 495,9100,stomach,new consultation,suburban,Married,Yes,No,1,1,33,Female,16
 496,4700,legs,new consultation,suburban,Single,No,Yes,1,1,39,Female,7
 497,5200,stomach,appointed session,rural,Divorced,No,Yes,2,4,39,Female,8
