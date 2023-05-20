@@ -1,2 +1,3 @@
-# Theses Project
-## A Simulation Study for Choosing Predictive Insurance Model
+# Theses
+## Data Science
+#### A Simulation Study for Choosing Predictive Insurance Model
